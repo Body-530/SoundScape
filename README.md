@@ -1,65 +1,55 @@
-# 🎵 SoundScape – Visual Music Sequencer
+# SounddScape
 
-SoundScape is an interactive browser-based music sequencer that lets users create rhythmic patterns while enjoying real-time visual effects. Built entirely with HTML, CSS, and JavaScript, it uses the Web Audio API to generate sounds directly in the browser without any external libraries.
+SounddScape is a small music sequencer I made using HTML, CSS and JavaScript.
 
-## ✨ Features
+You can click the boxes and make your own beat and then play it.
 
-- 🎼 16-step interactive sequencer
-- 🌿 Four unique sound themes:
-  - Nature
-  - Chiptune
-  - Lo-fi
-  - Strings
-- ▶️ Play and stop playback
-- 🎲 Random pattern generator
-- 🧹 Clear pattern button
-- 🎚️ Adjustable tempo and volume
-- ✨ Real-time particle visualizer synchronized with the music
-- 📱 Responsive design for desktop and mobile devices
+## Features
 
-## 🛠️ Technologies Used
+* 16 steps
+* 4 different sounds
+* Play and stop
+* Randomize
+* Clear
+* Change BPM
+* Change volume
+* Visualizer
+* Some preset patterns
+* Save patterns in the browser
+* Keyboard controls
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- Web Audio API
-- HTML Canvas API
+## How to use
 
-## 🚀 Getting Started
+Just open `index.html` in your browser.
 
-1. Clone the repository:
+Click the boxes you want and press Play.
 
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
+You can also try Randomize or one of the presets.
 
-2. Open the project folder.
+### Keyboard
 
-3. Launch `index.html` in your browser.
+`Space` - Play / Stop
+`C` - Clear
+`R` - Randomize
 
-No installation or dependencies are required.
+## Made with
 
-## 🎮 How to Use
+* HTML
+* CSS
+* JavaScript
+* Web Audio API
+* Canvas
 
-1. Click any square in the grid to activate or deactivate a note.
-2. Press **Play** to hear your pattern.
-3. Adjust the **Tempo** and **Volume** sliders.
-4. Use **Randomize** to generate a random beat.
-5. Use **Clear** to reset the sequencer.
+No libraries or anything needed.
 
-## 📸 Preview
+## Why I made it
 
-*(Add a screenshot or GIF of the project here.)*
+I wanted to make something related to music and also learn more about how sound works in JavaScript.
 
-## 💡 Future Improvements
+It was also a fun project to make because I could actually play with what I was building.
 
-- Save and load custom patterns
-- More sound packs
-- MIDI support
-- Recording and exporting audio
-- Keyboard shortcuts
-- Dark/Light themes
+## Future stuff
 
-## 📄 License
+Maybe I will add more sounds and more ways to edit the patterns later.
 
-This project is open source and available under the MIT License.
+Made by me :)
